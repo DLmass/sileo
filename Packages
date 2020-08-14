@@ -1,4 +1,4 @@
-Package: ap2
+Package: com.lm_0.1-1+debug_iphoneos-arm
 Version: 0.1
 Section: EQE
 Maintainer: DLmass <lorenzen.mike@gmail.com>
@@ -9,4 +9,18 @@ Size: 2
 MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
 Description: EQE preset
 Name: (EQE) AirPods 2
+Author: DLmass <lorenzen.mike@gmail.com>
+
+
+Package: com.lm_0.2-1+debug_iphoneos-arm
+Version: 0.1
+Section: EQE
+Maintainer: DLmass <lorenzen.mike@gmail.com>
+Depends: firmware (>13.0)
+Architecture: iphoneos-arm
+Filename: ./eqe/com.lm_0.2-1+debug_iphoneos-arm.deb
+Size: 2
+MD5sum: 85a01c41aaaa72b48b08d9d6a67f3016
+Description: EQE preset
+Name: (EQE) AirPods 2 2
 Author: DLmass <lorenzen.mike@gmail.com>
